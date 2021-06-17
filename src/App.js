@@ -33,7 +33,7 @@ export default class App extends Component {
       <div className="app">
         <div>
           <div class="count">
-            <h2>Count:</h2>
+            <h2>Current Count:</h2>
             <h1>{count}</h1>
           </div>
           <div class="buttons">
